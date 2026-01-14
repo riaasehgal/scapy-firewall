@@ -43,7 +43,7 @@ In dry run mode, it prints alerts without blocking IPs. In active mode, it block
 ```
 
 ## Screenshots 
-<img width="1147" height="236" alt="image" src="https://github.com/user-attachments/assets/2714ebf0-afcc-48d7-89e9-7cc6a7d03df6" />
+<img width="1162" height="417" alt="image" src="https://github.com/user-attachments/assets/121d0715-53ab-4139-bc08-3279c9a8f648" />
 
 
 ## Notes
